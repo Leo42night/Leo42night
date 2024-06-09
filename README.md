@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leo42night
-- 👀 I’m interested in web development, data analyst, and start-up planning
+- 👀 I’m interested in web development, game development, data analyst, and start-up planning
 - 🌱 I’m currently learning python, c++, C#, Unity Engine. Especially about making game interaction.
 - 💞️ I’m looking to collaborate on web project
 - 📫 How to reach me wa.me/6281545161348
