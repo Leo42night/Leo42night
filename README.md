@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on GIS-Based App<br>🤝 I'm looking to collaborate on Unity's Game Project<br>🌱 I'm currently learning React Js<br>💬 Ask me about Anime, Movies or Series<br>⚡Fun fact: i have suprise on my github page
+🔭 I'm currently working on GIS-Based App<br>🤝 I'm looking to collaborate on Unity's Game Project<br>🌱 I'm currently learning React Js<br>💬 Ask me about any interesting project<br>⚡Fun fact: i have suprise on my github page
 
 
 ## 🌐 Socials:
