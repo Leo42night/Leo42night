@@ -1,15 +1,15 @@
-<div style="text-align: center;">  
-# Available for Hire.  
-</div>
+<h1 align='center'> Available for hire. </h1>
 
-## About Me:
-🔭 I'm currently working on GIS-Based App<br>🤝 I'm looking to collaborate on Unity's Game Project<br>🌱 I'm currently learning React Js<br>💬 Ask me about any interesting project in Laravel and React <br>⚡Fun fact: i have suprise on my github page
+### About Me:
+- 🔭 Currently working on GIS-Based App
+- 🤝 Looking to collaborate on Unity's Game Project
+- 🌱 Mostly learning React Js
+- 💬 Ask me about any interesting project in Laravel and React
 
-
-## 🌐 Socials:
+### 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QuXVUa2Q) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/leo.t.1293) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leoprangs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leoptobing) 
 
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
@@ -31,7 +31,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Leo42night&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Leo42night&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
+### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Leo42night&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
@@ -43,7 +43,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Leo42night&icon=6&color=13)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
+  ### 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/leoprangs) 
 
   
