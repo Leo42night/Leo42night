@@ -2,7 +2,7 @@
 
 ### About Me
 - 🔭 Currently working on Machine learning APP (Tensorflow)
-- 🤝 Looking to collaborate on Unity's Game Project
+- 🤝 Looking to collaborate on JS 3D
 - 🌱 Mostly learning React Js & Laravel
 - 💬 Ask me about any interesting project in Laravel, React, & Tensorflow
 
