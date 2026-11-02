@@ -1,10 +1,5 @@
-<h1 align='center'> Available for hire. </h1>
-
-### About Me
-- 🔭 Currently working on Machine learning APP (Tensorflow)
-- 🤝 Looking to collaborate on JS 3D
-- 🌱 Mostly learning React Js & Laravel
-- 💬 Ask me about any interesting project in Laravel, React, & Tensorflow
+### Utility Project
+- [▶️ YT-DLP custom CLI](https://drive.google.com/drive/folders/1zXEg1lTSOPQubzkVKWv09jGauJMoT44h?usp=sharing) 
 
 ### 🌐 Socials
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/QuXVUa2Q) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/leo.t.1293) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/leoprangs) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/leoptobing) 
